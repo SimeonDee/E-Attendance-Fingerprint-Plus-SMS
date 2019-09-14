@@ -1,0 +1,17 @@
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrigSecurityApp\FingerPrintSMSOrigSecurityApp\obj\Debug\FingerPrintSMSOrigSecurityApp.exe
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrigSecurityApp\FingerPrintSMSOrigSecurityApp\obj\Debug\FingerPrintSMSOrigSecurityApp.xml
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrigSecurityApp\FingerPrintSMSOrigSecurityApp\obj\Debug\FingerPrintSMSOrigSecurityApp.pdb
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrigSecurityApp\FingerPrintSMSOrigSecurityApp\bin\Debug\FingerPrintSMSOrigSecurityApp.exe
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrigSecurityApp\FingerPrintSMSOrigSecurityApp\bin\Debug\FingerPrintSMSOrigSecurityApp.pdb
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrigSecurityApp\FingerPrintSMSOrigSecurityApp\bin\Debug\FingerPrintSMSOrigSecurityApp.xml
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrigSecurityApp\FingerPrintSMSOrigSecurityApp\bin\Debug\Interop.GrFingerXLib.dll
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrigSecurityApp\FingerPrintSMSOrigSecurityApp\bin\Debug\AxInterop.GrFingerXLib.dll
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrigSecurityApp\FingerPrintSMSOrigSecurityApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrigSecurityApp\FingerPrintSMSOrigSecurityApp\obj\Debug\Interop.GrFingerXLib.dll
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrigSecurityApp\FingerPrintSMSOrigSecurityApp\obj\Debug\AxInterop.GrFingerXLib.dll
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrigSecurityApp\FingerPrintSMSOrigSecurityApp\obj\Debug\FingerPrintSMSOrigSecurityApp.vbproj.ResolveComReference.cache
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrigSecurityApp\FingerPrintSMSOrigSecurityApp\obj\Debug\FingerPrintSMSOrigSecurityApp.FrmSecurityEntry.resources
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrigSecurityApp\FingerPrintSMSOrigSecurityApp\obj\Debug\FingerPrintSMSOrigSecurityApp.FrmSecurityLogin.resources
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrigSecurityApp\FingerPrintSMSOrigSecurityApp\obj\Debug\FingerPrintSMSOrigSecurityApp.FrmSMSTester.resources
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrigSecurityApp\FingerPrintSMSOrigSecurityApp\obj\Debug\FingerPrintSMSOrigSecurityApp.Resources.resources
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrigSecurityApp\FingerPrintSMSOrigSecurityApp\obj\Debug\FingerPrintSMSOrigSecurityApp.vbproj.GenerateResource.Cache

@@ -1,0 +1,172 @@
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\bin\Debug\FingerPrintSMSOrig.exe
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\bin\Debug\FingerPrintSMSOrig.pdb
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\bin\Debug\FingerPrintSMSOrig.xml
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\bin\Debug\Interop.GrFingerXLib.dll
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\bin\Debug\AxInterop.GrFingerXLib.dll
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\Interop.GrFingerXLib.dll
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\AxInterop.GrFingerXLib.dll
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.vbproj.ResolveComReference.cache
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmAdminAddCourse.resources
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmBioData.resources
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmBiometricsReg.resources
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmCourseReg.resources
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmExamBiometrics.resources
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmExamReportQuery.resources
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmInvigilatorForm.resources
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmLectureReportQuery.resources
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmLecturesAttendance.resources
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmLogin.resources
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.frmMain.resources
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmRegisterLoginAccount.resources
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmLectureBiometrics.resources
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.Resources.resources
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.vbproj.GenerateResource.Cache
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.exe
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.xml
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.pdb
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\bin\Debug\FingerPrintSMSOrig.exe.config
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmSecurityEntry.resources
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmRegisterSecurityOfficer.resources
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmSecurityLogin.resources
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.Form1.resources
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmTestSMS2.resources
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.Form2.resources
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmStaffReg.resources
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmBulkSMS.resources
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmData.resources
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmAddMatricStaffID.resources
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.ReportAllRegStudents.resources
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.ReportExamAttendance.resources
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.ReportLectureAttendance.resources
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmStaffAttendanceReportQuery.resources
+C:\Users\Administrator1\Documents\Visual Studio 2005\Projects\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.ReportStaffAttendance.resources
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\bin\Debug\FingerPrintSMSOrig.exe.config
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.exe
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.xml
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.pdb
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\bin\Debug\FingerPrintSMSOrig.exe
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\bin\Debug\FingerPrintSMSOrig.pdb
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\bin\Debug\FingerPrintSMSOrig.xml
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\bin\Debug\Interop.GrFingerXLib.dll
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\bin\Debug\AxInterop.GrFingerXLib.dll
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\Interop.GrFingerXLib.dll
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\AxInterop.GrFingerXLib.dll
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.vbproj.ResolveComReference.cache
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.Form1.resources
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.Form2.resources
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmAddMatricStaffID.resources
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmAdminAddCourse.resources
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmBioData.resources
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmBiometricsReg.resources
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmBulkSMS.resources
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmCourseReg.resources
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmData.resources
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmExamBiometrics.resources
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmExamReportQuery.resources
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmInvigilatorForm.resources
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmLectureReportQuery.resources
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmLecturesAttendance.resources
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmLogin.resources
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.frmMain.resources
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmRegisterLoginAccount.resources
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmRegisterSecurityOfficer.resources
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmSecurityEntry.resources
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmSecurityLogin.resources
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmStaffAttendanceReportQuery.resources
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmStaffReg.resources
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmTestSMS2.resources
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmLectureBiometrics.resources
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.Resources.resources
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.ReportAllRegStudents.resources
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.ReportExamAttendance.resources
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.ReportLectureAttendance.resources
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.ReportStaffAttendance.resources
+C:\Users\Owner\Desktop\E_Attendance\CS_HND_F11_1434 AND CS_HND_F11_1442\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.vbproj.GenerateResource.Cache
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\bin\Debug\FingerPrintSMSOrig.exe.config
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.exe
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.xml
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.pdb
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\bin\Debug\FingerPrintSMSOrig.exe
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\bin\Debug\FingerPrintSMSOrig.pdb
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\bin\Debug\FingerPrintSMSOrig.xml
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\bin\Debug\Interop.GrFingerXLib.dll
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\bin\Debug\AxInterop.GrFingerXLib.dll
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\ResolveAssemblyReference.cache
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\Interop.GrFingerXLib.dll
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\AxInterop.GrFingerXLib.dll
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.vbproj.ResolveComReference.cache
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.Form1.resources
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.Form2.resources
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmAddMatricStaffID.resources
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmAdminAddCourse.resources
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmBioData.resources
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmBiometricsReg.resources
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmBulkSMS.resources
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmCourseReg.resources
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmData.resources
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmExamBiometrics.resources
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmExamReportQuery.resources
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmInvigilatorForm.resources
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmLectureReportQuery.resources
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmLecturesAttendance.resources
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmLogin.resources
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.frmMain.resources
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmRegisterLoginAccount.resources
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmRegisterSecurityOfficer.resources
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmSecurityEntry.resources
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmSecurityLogin.resources
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmStaffAttendanceReportQuery.resources
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmStaffReg.resources
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmTestSMS2.resources
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmLectureBiometrics.resources
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.Resources.resources
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.ReportAllRegStudents.resources
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.ReportExamAttendance.resources
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.ReportLectureAttendance.resources
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.ReportStaffAttendance.resources
+E:\From Old System\Projects\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.vbproj.GenerateResource.Cache
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\bin\Debug\FingerPrintSMSOrig.exe.config
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.exe
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.xml
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.pdb
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\bin\Debug\FingerPrintSMSOrig.exe
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\bin\Debug\FingerPrintSMSOrig.pdb
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\bin\Debug\FingerPrintSMSOrig.xml
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\bin\Debug\Interop.GrFingerXLib.dll
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\bin\Debug\AxInterop.GrFingerXLib.dll
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\Interop.GrFingerXLib.dll
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\AxInterop.GrFingerXLib.dll
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.vbproj.ResolveComReference.cache
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.Form1.resources
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.Form2.resources
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmAddMatricStaffID.resources
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmAdminAddCourse.resources
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmBioData.resources
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmBiometricsReg.resources
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmBulkSMS.resources
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmCourseReg.resources
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmData.resources
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmExamBiometrics.resources
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmExamReportQuery.resources
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmInvigilatorForm.resources
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmLectureReportQuery.resources
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmLecturesAttendance.resources
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmLogin.resources
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.frmMain.resources
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmRegisterLoginAccount.resources
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmRegisterSecurityOfficer.resources
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmSecurityEntry.resources
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmSecurityLogin.resources
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmStaffAttendanceReportQuery.resources
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmStaffReg.resources
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmTestSMS2.resources
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.FrmLectureBiometrics.resources
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.Resources.resources
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.ReportAllRegStudents.resources
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.ReportExamAttendance.resources
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.ReportLectureAttendance.resources
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.ReportStaffAttendance.resources
+C:\Users\ADEDOYIN\Desktop\E_Attendance\Project\Bio-Metrics Attendance\Project Applications\FingerPrintSMSOrig\FingerPrintSMSOrig\obj\Debug\FingerPrintSMSOrig.vbproj.GenerateResource.Cache

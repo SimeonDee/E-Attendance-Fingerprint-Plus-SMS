@@ -1,0 +1,418 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E8A5DC42-B118-4982-91C2-ADE7EE339ACC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>FingerPrintSMSOrig.My.MyApplication</StartupObject>
+    <RootNamespace>FingerPrintSMSOrig</RootNamespace>
+    <AssemblyName>FingerPrintSMSOrig</AssemblyName>
+    <MyType>WindowsForms</MyType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>FingerPrintSMSOrig.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>FingerPrintSMSOrig.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Windows\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DBClass.vb" />
+    <Compile Include="Form1.designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAddMatricStaffID.Designer.vb">
+      <DependentUpon>FrmAddMatricStaffID.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAddMatricStaffID.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAdminAddCourse.designer.vb">
+      <DependentUpon>FrmAdminAddCourse.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAdminAddCourse.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBioData.Designer.vb">
+      <DependentUpon>FrmBioData.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBioData.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBiometricsReg.Designer.vb">
+      <DependentUpon>FrmBiometricsReg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBiometricsReg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBulkSMS.Designer.vb">
+      <DependentUpon>FrmBulkSMS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBulkSMS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCourseReg.Designer.vb">
+      <DependentUpon>FrmCourseReg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCourseReg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmData.Designer.vb">
+      <DependentUpon>FrmData.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmData.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmExamBiometrics.Designer.vb">
+      <DependentUpon>FrmExamBiometrics.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmExamBiometrics.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmExamReportQuery.Designer.vb">
+      <DependentUpon>FrmExamReportQuery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmExamReportQuery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmInvigilatorForm.Designer.vb">
+      <DependentUpon>FrmInvigilatorForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmInvigilatorForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLectureReportQuery.Designer.vb">
+      <DependentUpon>FrmLectureReportQuery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLectureReportQuery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLecturesAttendance.Designer.vb">
+      <DependentUpon>FrmLecturesAttendance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLecturesAttendance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.vb">
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.vb">
+      <DependentUpon>FrmMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRegisterLoginAccount.Designer.vb">
+      <DependentUpon>FrmRegisterLoginAccount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRegisterLoginAccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRegisterSecurityOfficer.Designer.vb">
+      <DependentUpon>FrmRegisterSecurityOfficer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRegisterSecurityOfficer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSecurityEntry.Designer.vb">
+      <DependentUpon>FrmSecurityEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSecurityEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSecurityLogin.Designer.vb">
+      <DependentUpon>FrmSecurityLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSecurityLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmStaffAttendanceReportQuery.Designer.vb">
+      <DependentUpon>FrmStaffAttendanceReportQuery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmStaffAttendanceReportQuery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmStaffReg.Designer.vb">
+      <DependentUpon>FrmStaffReg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmStaffReg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTestSMS2.Designer.vb">
+      <DependentUpon>FrmTestSMS2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTestSMS2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LectureBiometrics.Designer.vb">
+      <DependentUpon>LectureBiometrics.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LectureBiometrics.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="MyModule.vb" />
+    <Compile Include="ReportAllRegStudents.Designer.vb">
+      <DependentUpon>ReportAllRegStudents.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReportAllRegStudents.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportExamAttendance.Designer.vb">
+      <DependentUpon>ReportExamAttendance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReportExamAttendance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportLectureAttendance.Designer.vb">
+      <DependentUpon>ReportLectureAttendance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReportLectureAttendance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportStaffAttendance.Designer.vb">
+      <DependentUpon>ReportStaffAttendance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReportStaffAttendance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SMSCOMMS.vb" />
+    <Compile Include="Util.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAddMatricStaffID.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmAddMatricStaffID.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAdminAddCourse.resx">
+      <DependentUpon>FrmAdminAddCourse.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBioData.resx">
+      <DependentUpon>FrmBioData.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBiometricsReg.resx">
+      <DependentUpon>FrmBiometricsReg.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBulkSMS.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmBulkSMS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCourseReg.resx">
+      <DependentUpon>FrmCourseReg.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmData.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmData.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmExamBiometrics.resx">
+      <DependentUpon>FrmExamBiometrics.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmExamReportQuery.resx">
+      <DependentUpon>FrmExamReportQuery.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmInvigilatorForm.resx">
+      <DependentUpon>FrmInvigilatorForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLectureReportQuery.resx">
+      <DependentUpon>FrmLectureReportQuery.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLecturesAttendance.resx">
+      <DependentUpon>FrmLecturesAttendance.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRegisterLoginAccount.resx">
+      <DependentUpon>FrmRegisterLoginAccount.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRegisterSecurityOfficer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmRegisterSecurityOfficer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSecurityEntry.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmSecurityEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSecurityLogin.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmSecurityLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmStaffAttendanceReportQuery.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmStaffAttendanceReportQuery.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmStaffReg.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmStaffReg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTestSMS2.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmTestSMS2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LectureBiometrics.resx">
+      <DependentUpon>LectureBiometrics.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportAllRegStudents.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReportAllRegStudents.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportExamAttendance.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReportExamAttendance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportLectureAttendance.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReportLectureAttendance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportStaffAttendance.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReportStaffAttendance.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxGrFingerXLib">
+      <Guid>{A9995C7C-77BF-4E27-B581-A4B5BBD90E50}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="GrFingerXLib">
+      <Guid>{A9995C7C-77BF-4E27-B581-A4B5BBD90E50}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\finger print scanner.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Image\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

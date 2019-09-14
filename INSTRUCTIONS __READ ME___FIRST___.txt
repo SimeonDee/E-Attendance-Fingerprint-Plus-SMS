@@ -1,0 +1,66 @@
+*****************************************
+*	Adeyemi Adedoyin Simeon		*
+*	Mabayoje, M. A. &		*
+*	Balogun, A. O.			*
+*****************************************
+*   Copyright (C) Adeyemi, et al. 2016	*
+*****************************************
+
+		INSTRUCTIONS ON HOW TO USE
+		**************************
+
+
+
+	MAIN STEPS
+	----------
+
+1.	Install Microsoft Visual Studio 2005 Software
+
+2.	Install FingerPrint_SDK_2007 Software
+	NOTE:	(Install the FingerCap Drivers when prompted to)
+
+3.	Copy The DataBase (FingerPrintSMSDb) from the Folder to MyDocuments or any location of choice
+
+
+		
+	PART ONE (REGISTRATIONS, LECTURE AND EXAM ATTENDANCE, AND REPORTS)
+	------------------------------------------------------------------
+
+1.	After steps 1, 2 and 3 above (Main Steps).
+
+2. 	Open the project (FingerPrintSMSOrig)
+
+3.	Open the MyModule code and change the DATA SOURCE of the Database Connection String to the new 
+	location(path) you copied the database to.
+
+4.	Open the DBClass codes and also change the DATA SOURCE of the connection string to the new path
+	(location) you copied the database to.
+
+5.	Run the Project
+
+
+
+
+	PART TWO (STAFF AND STUDENTS' ENTRY AND EXIT ATTENDANCE AS WELL AS SMS TO PARENTS)
+	----------------------------------------------------------------------------------
+
+1.	After steps 1, 2 and 3 above (Main Steps).
+
+2.	Open the Security Application project named (FingerPrintSMSOrigSecurityApp)	
+
+3.	Open the MyModule code and change the DATA SOURCE of the Database Connection String to the new 
+	location(path) you copied the database to.
+
+4.	Open the DBClass codes and also change the DATA SOURCE of the connection string to the new path
+	(location) you copied the database to.
+
+5.	Connect your Device For SMS (Phone) or Modem and note the PORT you are connected to.
+	NOTE: Bluetooth can also be used to connect to the Phone
+
+6.	Open the MyModule Codes and Change the PORT Number argument of the SMSConnect...() subroutine
+	to the one your phone is connected to.
+
+7.	Run the Project.
+
+		
+						Copyright (c) Adeyemi, et al. 2016

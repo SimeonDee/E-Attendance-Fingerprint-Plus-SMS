@@ -1,0 +1,369 @@
+*****************************************
+*	Adeyemi Adedoyin Simeon		*
+*	Mabayoje, M. A. &		*
+*	Balogun, A. O.			*
+*****************************************
+*   Copyright (C) Adeyemi, et al. 2016	*
+*****************************************
+
+
+INSTRUCTIONS ON HOW TO USE
+**************************
+
+	MAIN STEPS
+	----------
+
+1.	Install Microsoft Visual Studio 2005 Software
+
+2.	Install FingerPrint_SDK_2007 Software
+NOTE:	(Install the FingerCap Drivers when prompted TO)
+
+3.	Copy The DataBase (FingerPrintSMSDb) from the Folder to “My Documents” or any location of choice
+
+
+		
+PART ONE (REGISTRATIONS, LECTURE AND EXAM ATTENDANCE, AND REPORTS)
+-----------------------------------------------------------
+
+1.	Follow steps 1, 2 and 3 above (Main Steps).
+
+2. 	Open the project (FingerPrintSMSOrig)
+
+3.	Open the MyModule code and change the DATA SOURCE of the Database Connection String to the new 
+	location(path) you copied the database to.
+
+4.	Open the DBClass codes and also change the DATA SOURCE of the connection string to the new path
+	(location) you copied the database to.
+
+5.	Run the Project.
+
+
+
+PART TWO (STAFF AND STUDENTS' ENTRY AND EXIT ATTENDANCE AS WELL AS SMS TO PARENTS)
+-----------------------------------------------------------
+
+1.	After steps 1, 2 and 3 above (Main Steps).
+
+2.	Open the Security Application project named (FingerPrintSMSOrigSecurityApp)	
+
+3.	Open the MyModule code and change the DATA SOURCE of the Database Connection String to the new 
+	location(path) you copied the database to.
+
+4.	Open the DBClass codes and also change the DATA SOURCE of the connection string to the new path
+	(location) you copied the database to.
+
+5.	Connect your Device For SMS (Phone) or Modem and note the PORT you are connected to.
+NOTE: Bluetooth can also be used to connect to the Phone
+
+6.	Open the MyModule Codes and Change the PORT Number argument of the SMSConnect...() subroutine
+	to the one your phone or modem is connected to.
+
+7.	Run the Project.
+
+
+TIPS FOR USING BLUETOOTH IN SENDING MESSAGES
+--------------------------------------------
+1.	Make sure your Bluetooth on your device [computer system] is turned on and discoverable.
+
+2.	If your device has no in-built Bluetooth, an external Bluetooth device may be used by inserting it into a USB port.
+
+3.	Pair any device connected to a telecom network with your system e.g. mobile phone.
+
+4.	Make sure the Bluetooth on your paired mobile phone is turned on anytime the application is being run.
+
+5.	Check the port your paired device is connected to and follow step 6 above.
+
+NOTE: The port is checked by:
+1.	Right-click on “My Computer”;
+2.	Click on “Manage”;
+3.	Click on “Device Manager”;
+4.	click on “COM Ports”;
+5.	Check the port number your device is attached to [be it Bluetooth or Modem].
+
+OR
+1.	Click on the Bluetooth icon on the taskbar of your system;
+2.	Click on “Show Bluetooth Devices”;
+3.	Right-click on your paired device that you want to use, and click on “Properties”;
+4.	Click on “Hardware”;
+5.	The port number will be displayed in the box shown.
+
+
+USING FINGERPRINTSMSORIG APPLICATION
+--------------------------
+
+GETTING STARTED FOR NEW USERS
+*****************************
+To get started as a new user,
+
+1.	Follow Steps 1 to 5 in the PART ONE of this instruction Manual.
+
+2.	Click on the link “Register Account” on the LogIn Form.
+
+3.	Fill all the fields appropriately.
+
+NOTE: Your Username must be your Matric Number or Staff ID.
+
+4.	Click on “Submit” button.
+
+
+
+TIPS FOR EXISTING OR REGISTERED USERS
+*************************************
+As a registered user, after Steps 1 to 5 in the PART ONE section of this manual,
+1.	Fill out your Username [Matric Number or Staff ID] in the Username textbox.
+
+2.	Fill out the Password, which you created during your registration as a new user, in the appropriate box.
+
+3.	Choose your appropriate category as a student, staff or administrator.
+
+4.	Click on the “Login” Button.
+
+GETTING STARTED AS AN ADMINISTRATOR
+***********************************
+
+After you have registered your account as an administrator and logged in, the following functions will be accessible to you:
+i.	Staff Registration
+ii.	Admin
+iii.	Reports
+
+Staff Registration
+******************
+1.	Click on “Staff Registration” in the menu bar of the main form.
+2.	Click on “Bio-Data”.
+3.	Your Staff ID will be automatically loaded with it.
+4.	Click on “Validate”.
+5.	Your details during account registration will be loaded.
+6.	Fill in the remaining fields and upload your passport, which must not be more than 200Kb.
+7.	Click on “Save”.
+
+NOTE: This bio-data can be updated at anytime. Just log-in and click on “Bio-Data”, a message box will be displayed telling you that your bio-data has been registered and asking if you would like to proceed to Biometrics Registration. Click “NO” and another message box will be displayed asking you if you want to edit your bio-data. Click “Yes” and your registered bio-data will be displayed. Edit any field as required and click on “UPDATE”. Your bio-data will be updated in the database.
+
+8.	After step 7 above, a message box will be shown asking you if you want to proceed to Bio-Metric Registration, click “Yes”, then “Continue”.
+9.	Place your left index finger on the reader once biometrics registration form has been loaded.
+10.	click on “Save” when the fingerprint is captured.
+
+Admin Functions
+***************
+The Admin has access the following functions:
+1.	Add Courses
+2.	Edit Courses
+3.	Remove Courses
+4.	Add Security Officer
+5.	Generate Student Matric/Staff ID
+6.	Send Bulk SMS
+
+The first 5 functions must be done beforehand by an administrative officer before the full launching of this application. This will enable a full performance of the program.
+
+ADD, EDIT AND REMOVE COURSES
+----------------------------
+This involves adding all the courses offered by each level in all departments. These courses can however be edited [ say, for instance, the course unit or course title or lecturer assigned has changed]. The courses can be removed as well. 
+
+Simply click on “Admin” in the Menu bar of the main form and click on any of those functions as required. A message box will be displayed to put you through from time to time.
+
+ADD SECURITY OFFICER
+--------------------
+This involves assigning the security officer on duty a unique password to enable him have access to the attendance application at the entry and exit point of the school.
+
+This is done by simply typing in the security officer’s Staff ID and issueing a unique password, which could be a combination of any alphanumeric keys. This password is what the security officer will use alongside his/her staff ID in logging in to the security application at the school gate.
+
+However, if a security officer forgets his password, the admin can help him retrieve it back, by simply following these steps:
+i.	Click on “Admin” in the menu bar of the home page.
+
+ii.	Click on “Add Security Officer”.
+
+iii.	Click on the “Find” button on the form displayed.
+
+iv.	An input box will be displayed asking you to enter the security officer’s ID. Enter it and click “OK”.
+
+v.	The password will be displayed.
+
+GENERATE STAFF ID/ STUDENT’S MATRIC NUMBER
+------------------------------------------
+To generate either the Staff ID or Matric Numbers for students, simply follow these steps:
+a.	Click the radio button “Students Matric Number” or “Staff ID”. Whichever one you click will be enabled, while the other will be disabled.
+
+b.	Fill in the required fields, by selecting the department, category, level, programs etc.
+
+
+c.	Fill in the number of students or staff you want to generate matric numbers or staff IDs for.
+
+d.	The accurate format for the matric number or Staff ID will be generated. Type in the starting point you want to start generating from, say 0001.
+
+
+e.	Click on “Generate Matric Numbers” or “Generate IDS”.
+
+f.	The numbers or IDs will be displayed in a list box on the right-hand side of the form. Click on “Save”.
+
+
+g.	You may generate more numbers for same department or other department by simply following steps a-f above.
+
+SEND BULK SMS
+-------------
+Here, the administrative personnel is given access to send a broadcast message to all staff or all parents or guardians. This is done by:
+1.	Click on “Admin” in the menu bar.
+
+2.	Click on “Send Bulk SMS”.
+3.	Select who to send the SMS to, by clicking on the radio button “To all staff” or “To Parents/Guardians”.
+
+4.	Type in the message to be sent.
+
+5.	Click on “Send Message”.
+
+
+
+STUDENTS’ REGISTRATION
+**********************
+Once a student logs in, he or she has to complete certain registration which includes:
+
+i.		Bio-Data Registration
+ii.	Course Registration
+iii.	Bio-Metrics Registration
+
+This is the only function a student has access to.
+
+Students must begin with the bio-data registration, where they fill in all their personal data in the appropriate fields. This is simply done by following the following steps:
+1.	Click on “Registration” in the menu bar on the main form.
+
+2.	Click on “Fresher” if you are using the attendance system for the first time and you haven’t registered your personal details previously OR “Staylite”, if you are an existing user.
+
+3.	Click on “Bio-Data”.
+
+4.	Once the Bio-Data form is loaded, your matric number or staff ID with which you logged in will be highlighted. Click on “Validate” and your name will be generated automatically.
+
+5.	Then supply your details accordingly, and click on “Save”.
+
+6.	Once your bio-data has been saved, a message prompting you to proceed to Course Registration will be shown.
+
+7.	Click on “Yes”, then “Continue”.
+
+8.	Once the Course Registration form is loaded, select your level and current session.
+
+9.	Then, click on “Generate Courses”.
+
+10.	The courses for that level will be automatically loaded.
+
+11.	If you have any carry-over [for staylites], click on “Register Carry-over” button.
+
+12.	Click on the Combo boxes below it and select the course(s) you want to register. Then tick the check box beside it accordingly.
+NOTE: If the check box is not ticked, it is assumed that you are not registering that particular carry-over course.
+
+13.	Click on “Register” to save your course information.
+
+14.	Another message box will prompt you to proceed to Biometrics Registration. Click “Yes” then “Continue”.
+
+15.	Once the Finger Data Capture form is loaded, place your left index finger on the fingerprint reader attached to the system.
+
+16.	A scan of your finger will be shown and a message box will inform you that your fingerprint has been captured, then ask if you will like to save it.
+
+17.	Click the “Save” button, then exit after a message has informed you that your data capture has been saved.
+
+
+
+GETTING STARTED AS A STAFF
+**************************
+Once you have an account and you have logged in as a staff of the institution with your Staff ID and password, the following functions will be accessible to you:
+
+i.	Staff Registration; which includes Bio-Data and Bio-Metrics Registration.
+ii.	Attendance; which includes Lectures and Exam Attendance.
+iii.	Report; which includes Lecture Attendance, Exam Attendance, All Staff Attendance and All Registered Students’ List.
+
+Each member of staff in the institution must first register his details, save it, then take students’ attendance accordingly. Reports can also be generated from time to time for any period of time as specified.
+
+STEPS TO TAKING LECTURE ATTENDANCE
+**********************************
+1.	Click on “Attendance” in the menu bar once you have logged in as a staff.
+
+2.	Click on “Lecture”.
+
+3.	Your Staff ID will automatically be loaded on the Lecture Attendance Form. Click on “Load Courses”.
+
+4.	All the courses you are taking that session will be loaded. Select the one you wish to take attendance for, alongside the department and level you are taking the attendance for.
+
+5.	Click on “Get Course Details”.
+
+6.	Once the details are loaded, fill the remaining fields such as session, duration and period, then click on “Take Attendance”.
+
+7.	A biometrics lecture attendance form will be displayed with the matric numbers of all students that registered for that course. 
+
+8.	All students are expected to simply place their finger on the reader and their attendance will be automatically marked and their information and photograph displayed.
+
+
+STEPS TO TAKING EXAM ATTENDANCE
+*******************************
+
+1.	Click on “Attendance” in the menu bar of the application’s main page.
+
+
+2.	Click on “Exam”.
+
+3.	Fill in the Course Code and Department, then click on “Get Details”.
+
+4.	Fill in the remaining fields accordingly; such as Venue, Duration, etc.
+
+5.	Click on “Take Attendance”. The Biometrics Exam Attendance Form will be displayed with the matric numbers of all registered students for that course. Each student’s matric number will be ticked as soon as he/she places his/her finger on the reader.
+
+
+USING FINGERPRINTSMSORIGSECURITYAPP APPLICATION
+---------------------------------------
+1.	Log in with your security officer ID and password given to you by the admin.
+2.	At the message prompt, check your paired device [e.g. mobile phone] and allow connection to the system.
+3.	Take attendance of everyone entering and leaving the school. This is achieved by:
+a.	Place their left index finger on the scanner’s surface.
+
+b.	Their information will be displayed if they registered and they will be signed in.
+
+c.	Else, an error message will be displayed, that the person is not a valid/registered user.
+
+d.	Such situation will be taken care of appropriately by interrogating the person.
+
+e.	Click “OK” once the fingerprint print has been captured and the person signed in or out, to allow the next person sign in / out of school.
+
+f.	Text messages will automatically be sent to parents or guardians of registered students on signing in and signing out of the school.
+
+g.	At the end of the day, click on “Submit” then “Exit” to close the application.
+
+
+	FORMATS USED FOR STAFF ID
+	*************************
+The basic format is: Staff/Category/Department/Number
+
+The acronyms used for each of these are:
+
+1. Staff - [ST]
+2. Category:	(a) Academic - [AC]
+			(b) Non-Academic - [NA]
+3. Department: For Academic Staff;
+			(a) Computer Science - [CS]
+			(b)	Mathematics & Statistics - [ST]
+			(c) Science Laboratory Technology- [LT]
+			(d) Food Technology - [FT]
+		For Non-Academic Staff:
+			(a) Bursary - [BUR]
+			(b) Works - [WKS]
+			(c) Management Info System - [MIS]	
+			(d) Security - [SEC]
+			(e) Poly Consult - [PLC]
+			(f) Info & Communication Technology - [ICT]
+			(g) Medical Centre - [MED]
+			(h) Admin - [ADM]
+
+Thus, the staff ID for a lecturer in Food Technology Department will look like this: ST/AC/FT/0001.
+
+While that of a non-academic staff working at Works department will be: ST/NA/WKS/OOO7.
+
+
+	STUDENTS’ MATRICULATION NUMBER
+	******************************
+Students’ matric no is generated based on their department, programme and year of admission. The format is: Department / Diploma Programme / Programme & Year of Admission/ Number.
+
+The acronyms used are:
+1.	 Departments: CS, ST, LT and FT [Same as Academic Departments above]
+2.	 Diploma Programme:	i. National Diploma [ND]
+					ii. Higher National Diploma [HND]
+3. Programme:	i. Full-time [F]
+		ii. Part-time [P]
+3.	Year of Admission: 2012 [12], 2013 [13], etc.
+
+Thus, a Student given admission to study Computer Science at National Diploma level in the year 2011, for 2011/2012 session on a part-time mode will have a matric no that looks thus: CS/ND/P11/0008.
+
+And a student offered HND admission to study Mathematics & Statistics in the year 2014 for 2014/2015 academic session on a full-time basis, will have his/her matric no in this form: ST/HND/F14/0025.
